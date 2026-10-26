@@ -1,0 +1,6 @@
+Create 3D Project
+In Hierarchy tab(on left), right click and select 3D Object -> Plane
+Again right click on Hierarchy Tab, select 3D object -> Sphere
+In Inspector Tab of Sphere, set Position 0,0.5,0
+Select the Directional Light in Hierarchy tab, rotate it using transform tool, the day night condition will be observed
+Select the Main Camera in Hierarchy tab, use move tool in tools box(on scene view), it will show different view in the game
